@@ -21,3 +21,4 @@ page目录>adminpage目录和leadingendpaege目录中的.py文件定义了具体
 10、testcaseuite目录具体测试用例目录，可以根据需求在划分目录，但是里面的.py文件必须是 test.py结尾;
 
 11、send_email.py执行完毕后发邮件，里面根据提示填写收发邮件信息；
+12、本次示例代码使用Google Chrome浏览器68.0.3440.75（正式版本）,ChromeDriver 2.42
